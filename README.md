@@ -7,7 +7,7 @@ The code behind The Derived Time Stop: the HJB exit boundary, the Fokker-Planck 
 <!-- @@ZAMRIK-LINKS:BEGIN@@ -->
 The paper this code belongs to: <https://zamrik.com/research-items/wp-2026-80309110/>
 PDF: <https://zamrik.com/wp-content/uploads/research/derived-time-stop.pdf>
-DOI: <https://doi.org/10.5281/zenodo.22972015>
+Zenodo: <https://zenodo.org/records/22972016> · DOI 10.5281/zenodo.22972015
 
 `WP-2026-80309110` · T. Zamrik
 <!-- @@ZAMRIK-LINKS:END@@ -->
