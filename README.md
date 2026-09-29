@@ -4,6 +4,7 @@
 The paper this code belongs to: <https://zamrik.com/research-items/wp-2026-80309110/>
 PDF: <https://zamrik.com/wp-content/uploads/research/derived-time-stop.pdf>
 Zenodo: <https://zenodo.org/records/22972016> · DOI 10.5281/zenodo.22972015
+Disclaimer: research and education, not advice: <https://zamrik.com/disclaimer/>
 
 `WP-2026-80309110` · T. Zamrik
 <!-- @@ZAMRIK-LINKS:END@@ -->
